@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{661E56B3-44B2-5A64-E605-74B66AB6DF0E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DedicatedServerTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
